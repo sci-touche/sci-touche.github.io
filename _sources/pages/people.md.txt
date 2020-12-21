@@ -6,7 +6,7 @@
 :img-top-cls: pl-5 pr-5
 
 ---
-:img-top: _static/assumpta-gasana-co-founder-at-sci-touche.jpg
+:img-top: ../_static/assumpta-gasana-co-founder-at-sci-touche.jpg
 
 Assumpta Gasana
 ^^^^^^^^
@@ -17,7 +17,7 @@ Field Engineer intern @ John Moriarty & Associates | Senior in Civil Engineering
 ...
 
 ---
-:img-top: _static/nancy-ingabire-abayo-co-founder-at-sci-touche.jpg
+:img-top: ../_static/nancy-ingabire-abayo-co-founder-at-sci-touche.jpg
 
 
 Nancy Ingabire Abayo
