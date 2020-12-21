@@ -20,7 +20,10 @@ See the [blog archives](blog) for a more complete list.
 :maxdepth: 2
 :hidden:
 people
+reports
+news
 about
 blog
 YouTube <https://www.youtube.com/channel/UCOeVZ5D1YIlZXp8mGhmcMSA>
+
 ```
