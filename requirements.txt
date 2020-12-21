@@ -1,0 +1,11 @@
+ablog
+colorspacious
+makeitpop
+matplotlib
+myst-nb
+MyST-Parser
+pydata-sphinx-theme
+sphinx
+sphinx-panels
+sphinxcontrib-bibtex<2.0.0
+sphinxext-opengraph
