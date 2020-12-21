@@ -8,7 +8,7 @@ Here you will find information and links about Sci-Touche and all our activities
 
 ## Recent News
 
-See the [blog archives](blog) for a more complete list.
+See the [blog archives](pages/blog) for a more complete list.
 
 ```{postlist}
 :date: "%Y-%m-%d"
@@ -19,11 +19,11 @@ See the [blog archives](blog) for a more complete list.
 ```{toctree}
 :maxdepth: 2
 :hidden:
-people
-reports
-news
-about
-blog
+pages/people
+pages/reports
+pages/news
+pages/about
+pages/blog
 YouTube <https://www.youtube.com/channel/UCOeVZ5D1YIlZXp8mGhmcMSA>
 
 ```

@@ -7,7 +7,7 @@ _What’s Happening at Sci-Touche Rwanda?_
 :column: text-left col-6
 
 ---
-:img-top: _static/nancy-teaching.jpg
+:img-top: ../_static/nancy-teaching.jpg
 +++
 **Rwandan students on boosting STEM-education through hands-on methods**
 
@@ -21,7 +21,7 @@ August 14, 2019
 
 
 ---
-:img-top: _static/nancy-teaching-2.png
+:img-top: ../_static/nancy-teaching-2.png
 +++
 **Clinton Global Initiative University at NC State**
 
@@ -35,7 +35,7 @@ April 16, 2020
 ```
 
 ---
-:img-top: _static/assumpta-gasana.jpg
+:img-top: ../_static/assumpta-gasana.jpg
 +++
 **Meet Co-Founder Assumpta Gasana**
 
