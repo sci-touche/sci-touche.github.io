@@ -15,10 +15,12 @@
 # sys.path.insert(0, os.path.abspath('.'))
 import datetime
 
+import yaml
+
 # -- Project information -----------------------------------------------------
 
 project = 'Sci-Touche Rwanda'
-copyright = f'2020-{datetime.datetime.now().year}'
+copyright = f'2018-{datetime.datetime.now().year}'
 author = 'Sci-Touche Rwanda'
 html_last_updated_fmt = '%b %d, %Y'
 
@@ -110,3 +112,8 @@ jupyter_execute_notebooks = 'off'
 
 def setup(app):
     app.add_css_file('custom.css')
+
+
+# load data
+with open('_data/people.yaml') as people_data_file:
+    people = yaml.load(people_data_file)
