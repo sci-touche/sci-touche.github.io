@@ -5,7 +5,7 @@
 :column: text-left col-6
 
 ---
-:img-top: _static/nancy-teaching.jpg
+:img-top: ../_static/nancy-teaching.jpg
 +++
 **Sci-Touche pour la Paix**
 
